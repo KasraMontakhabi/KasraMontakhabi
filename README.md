@@ -3,8 +3,8 @@
 </div>  
   
 
-### **<div align="center">I'm Kasra, a python back-end developer 👨‍💻 🚀</div>**  
-  
+### **<div align="center">< 👋Hello, World! /></div>**  
+I'm Kasra, a python back-end developer 👨‍💻 🚀  
 
 <br/>  
 
