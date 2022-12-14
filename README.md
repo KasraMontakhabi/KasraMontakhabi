@@ -5,11 +5,9 @@
 
 ### **<div align="center">< 👋Hello, World! /></div>**  
 <div align="center">
-I'm Kasra, a python back-end developer 👨‍💻 🚀  
+👨‍💻 🚀  
 </div> 
-<ul>
-<li> Currently working on a Django rest framework app
-</ul>
+
 <br/>  
 
 
