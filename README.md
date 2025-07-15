@@ -4,7 +4,7 @@
 
 <h2 align="center">👋 Hello, I'm Kasra Montakhabi Oskouei</h2>  
 <p align="center">
-  Full-Stack Developer | QA Automation Engineer | Open Source Enthusiast
+  Full-Stack Developer | QA Automation Engineer
 </p>
 
 ---
