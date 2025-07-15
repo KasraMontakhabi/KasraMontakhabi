@@ -23,7 +23,7 @@
 
 **Languages & Frameworks:**  
 - Java, Spring Boot, Python, Django, Flask, FastAPI  
-- JavaScript, HTML/CSS, Flutter, Next.js  
+- Flutter
 
 **QA & Automation:**  
 - Selenium, Appium, Pytest, Postman, REST APIs  
